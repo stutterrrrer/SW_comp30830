@@ -1,6 +1,0 @@
-name: SW_python
-channels:
-  - defaults
-dependencies:
-  - scikit-learn
-prefix: /Users/ian/opt/anaconda3/envs/SW_python

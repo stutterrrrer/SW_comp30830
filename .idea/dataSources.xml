@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dublinbikes-RDS" uuid="2cd661d1-e3b3-4888-8766-e105a1d4ecd0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://dbbikes.cxr944qojhtl.us-east-1.rds.amazonaws.com:3306/dublinbikes</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="AWS.RegionId" value="us-east-1" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
